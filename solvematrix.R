@@ -1,3 +1,8 @@
+## This is a script to test the following functions
+## cacheSolve
+## makeCacheMatrix
+## This script demontrates the faster time when cache is used 
+
 rm(list = ls())
 
 source("/Users/sanjay/mycode/git/ProgrammingAssignment2/cachematrix.R")
